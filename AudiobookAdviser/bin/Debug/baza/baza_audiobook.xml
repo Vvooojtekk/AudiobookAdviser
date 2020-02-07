@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<root>
+ <abook id='1' nazwa="adam-asnyk-daremne-zale_1.mp3">
+    <autor>Adam Asnyk</autor>
+    <tytul>Daremne żale</tytul>
+    <lektor>Piotr Głowacki</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>0:41</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>adam-asnyk-daremne-zale_1.mp3</nazwa>    
+</abook>
+ <abook id='2' nazwa="adam-asnyk-do-mlodych.mp3">
+    <autor>Adam Asnyk</autor>
+    <tytul>Do młodych</tytul>
+    <lektor>Jan Peszek</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>1:28</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>adam-asnyk-do-mlodych.mp3</nazwa>    
+</abook>
+ <abook id='3' nazwa="adam-asnyk-miedzy-nami-nic-nie-bylo_1.mp3">
+    <autor>Adam Asnyk</autor>
+    <tytul>Między nami nic nie było</tytul>
+    <lektor>Piotr Głowacki</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>0:44</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>adam-asnyk-miedzy-nami-nic-nie-bylo_1.mp3</nazwa>    
+</abook>
+ <abook id='4' nazwa="adam-mickiewicz-oda-do-mlodosci.mp3">
+    <autor>Adam Mickiewicz</autor>
+    <tytul>Oda do młodości</tytul>
+    <lektor>Agnieszka Podsiadlik</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>3:33</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>adam-mickiewicz-oda-do-mlodosci.mp3</nazwa>    
+</abook>
+ <abook id='5' nazwa="anton-czechow-aptekarzowa.mp3">
+    <autor>Anton Czechow</autor>
+    <tytul>Aptekarzowa</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>13:52</czas>
+    <gatunek>opowiadanie</gatunek>
+    <nazwa>anton-czechow-aptekarzowa.mp3</nazwa>    
+</abook>
+ <abook id='6' nazwa="anton-czechow-bezbronna-istota.mp3">
+    <autor>Anton Czechow</autor>
+    <tytul>Bezbronna istota</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>11:55</czas>
+    <gatunek>opowiadanie</gatunek>
+    <nazwa>anton-czechow-bezbronna-istota.mp3</nazwa>    
+</abook>
+ <abook id='7' nazwa="autor-nieznany-bogurodzica.mp3">
+    <autor>nieznany</autor>
+    <tytul>Bogurodzica</tytul>
+    <lektor>Jan Peszek</lektor>
+    <epoka>średniowiecze</epoka>
+    <czas>3:01</czas>
+    <gatunek>hymn</gatunek>
+    <nazwa>autor-nieznany-bogurodzica.mp3</nazwa>    
+</abook>
+ <abook id='8' nazwa="boleslaw-lesmian-napoj-cienisty-postacie-cykl-balwan-ze-sniegu.mp3">
+    <autor>Bolesław Leśmian</autor>
+    <tytul>Bałwan ze śniegu</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>młoda polska</epoka>
+    <czas>1:20</czas>
+    <gatunek>wiersz</gatunek>
+    <cykl>Napój Cienisty</cykl>
+    <nazwa>boleslaw-lesmian-napoj-cienisty-postacie-cykl-balwan-ze-sniegu.mp3</nazwa>    
+</abook>
+ <abook id='9' nazwa="boleslaw-lesmian-napoj-cienisty-postacie-cykl-wiosna.mp3">
+    <autor>Bolesław Leśmian</autor>
+    <tytul>Wiosna</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>młoda polska</epoka>
+    <czas>1:46</czas>
+    <gatunek>wiersz</gatunek>
+    <cykl>Napój Cienisty</cykl>
+    <nazwa>boleslaw-lesmian-napoj-cienisty-postacie-cykl-wiosna.mp3</nazwa>    
+</abook>
+ <abook id='10' nazwa="boleslaw-lesmian-napoj-cienisty-powiesc-o-rozumnej-dziewczynie-cykl-wiersz-ksiezyco.mp3">
+    <autor>Bolesław Leśmian</autor>
+    <tytul>Wiersz księżycowy</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>młoda polska</epoka>
+    <czas>1:04</czas>
+    <gatunek>wiersz</gatunek>
+    <cykl>Napój Cienisty</cykl>
+    <nazwa>boleslaw-lesmian-napoj-cienisty-powiesc-o-rozumnej-dziewczynie-cykl-wiersz-ksiezyco.mp3</nazwa>    
+</abook>
+ <abook id='11' nazwa="cyprian-kamil-norwid-bema-pamieci-zalobny-rapsod.mp3">
+    <autor>Cyprian Kamil Norwid</autor>
+    <tytul>Bema pamięci żałobny rapsod</tytul>
+    <lektor>Jan Peszek</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>2:44</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>cyprian-kamil-norwid-bema-pamieci-zalobny-rapsod.mp3</nazwa>    
+</abook>
+ <abook id='12' nazwa="cyprian-kamil-norwid-fortepian-chopina.mp3">
+    <autor>Cyprian Kamil Norwid</autor>
+    <tytul>Fortepian Chopina</tytul>
+    <lektor>Jan Peszek</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>5:58</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>cyprian-kamil-norwid-fortepian-chopina.mp3</nazwa>    
+</abook>
+ <abook id='13' nazwa="eliza-orzeszkowa-gloria-victis-tom-opowiadan-gloria-victis.mp3">
+    <autor>Eliza Orzeszkowa</autor>
+    <tytul>Gloria Victis</tytul>
+    <lektor>Danuta Stenka</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>80:54</czas>
+    <gatunek>nowela</gatunek>
+    <nazwa>eliza-orzeszkowa-gloria-victis-tom-opowiadan-gloria-victis.mp3</nazwa>    
+</abook>
+ <abook id='14' nazwa="franciszek-karpinski-do-justyny.mp3">
+    <autor>Franciszek Karpiński</autor>
+    <tytul>Do Justyny</tytul>
+    <lektor>Jan Peszek</lektor>
+    <epoka>oświecenie</epoka>
+    <czas>1:38</czas>
+    <gatunek>sielanka</gatunek>
+    <nazwa>franciszek-karpinski-do-justyny.mp3</nazwa>    
+</abook>
+ <abook id='15' nazwa="franciszek-karpinski-laura-i-filon.mp3">
+    <autor>Franciszek Karpiński</autor>
+    <tytul>Laura i Filon</tytul>
+    <lektor>Jan Peszek</lektor>
+    <epoka>oświecenie</epoka>
+    <czas>9:06</czas>
+    <gatunek>sielanka</gatunek>
+    <nazwa>franciszek-karpinski-laura-i-filon.mp3</nazwa>    
+</abook>
+ <abook id='16' nazwa="hans-christian-andersen-brzydkie-kaczatko_1.mp3">
+    <autor>Hans Christian Andersen</autor>
+    <tytul>Brzydkie kaczątko</tytul>
+    <lektor>Katarzyna Maciąg</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>25:09</czas>
+    <gatunek>baśń</gatunek>
+    <nazwa>hans-christian-andersen-brzydkie-kaczatko_1.mp3</nazwa>    
+</abook>
+ <abook id='17' nazwa="hans-christian-andersen-calineczka.mp3">
+    <autor>Hans Christian Andersen</autor>
+    <tytul>Calineczka</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>28:31</czas>
+    <gatunek>baśń</gatunek>
+    <nazwa>hans-christian-andersen-calineczka.mp3</nazwa>    
+</abook>
+ <abook id='18' nazwa="hans-christian-andersen-dziewczynka-z-zapalkami.mp3">
+    <autor>Hans Christian Andersen</autor>
+    <tytul>Dziewczynka z zapałkami</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>7:43</czas>
+    <gatunek>baśń</gatunek>
+    <nazwa>hans-christian-andersen-dziewczynka-z-zapalkami.mp3</nazwa>    
+</abook>
+ <abook id='19' nazwa="honore-balzac-bank-nucingena.mp3">
+    <autor>Honore Balzac</autor>
+    <tytul>Bank Nucingena</tytul>
+    <lektor>Joanna Domańska</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>160:30</czas>
+    <gatunek>powieść</gatunek>
+    <nazwa>honore-balzac-bank-nucingena.mp3</nazwa>    
+</abook>
+ <abook id='20' nazwa="honore-balzac-gobseck.mp3">
+    <autor>Honore Balzac</autor>
+    <tytul>Gobseck</tytul>
+    <lektor>Joanna Domańska</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>134:37</czas>
+    <gatunek>powieść</gatunek>
+    <nazwa>honore-balzac-gobseck.mp3</nazwa>    
+</abook>
+ <abook id='21' nazwa="honore-balzac-kobieta-porzucona.mp3">
+    <autor>Honore Balzac</autor>
+    <tytul>Kobieta Porzucona</tytul>
+    <lektor>Joanna Domańska</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>99:27</czas>
+    <gatunek>powieść</gatunek>
+    <nazwa>honore-balzac-kobieta-porzucona.mp3</nazwa>    
+</abook>
+ <abook id='22' nazwa="ignacy-krasicki-bajki-i-przypowiesci-konie-i-furman.mp3">
+    <autor>Ignacy Krasicki</autor>
+    <tytul>Konie i Furman</tytul>
+    <lektor>Bartosz Mazur</lektor>
+    <epoka>oświecenie</epoka>
+    <czas>0:36</czas>
+    <gatunek>bajka</gatunek>
+    <nazwa>ignacy-krasicki-bajki-i-przypowiesci-konie-i-furman.mp3</nazwa>    
+</abook>
+ <abook id='23' nazwa="ignacy-krasicki-bajki-i-przypowiesci-lis-i-wilk.mp3">
+    <autor>Ignacy Krasicki</autor>
+    <tytul>Lis i Wilk</tytul>
+    <lektor>Bartosz Mazur</lektor>
+    <epoka>oświecenie</epoka>
+    <czas>0:44</czas>
+    <gatunek>bajka</gatunek>
+    <nazwa>ignacy-krasicki-bajki-i-przypowiesci-lis-i-wilk.mp3</nazwa>    
+</abook>
+ <abook id='24' nazwa="ignacy-krasicki-bajki-i-przypowiesci-wol-minister.mp3">
+    <autor>Ignacy Krasicki</autor>
+    <tytul>Wół minister</tytul>
+    <lektor>Bartosz Mazur</lektor>
+    <epoka>oświecenie</epoka>
+    <czas>1:04</czas>
+    <gatunek>bajka</gatunek>
+    <nazwa>ignacy-krasicki-bajki-i-przypowiesci-wol-minister.mp3</nazwa>    
+</abook>
+  <abook id='25' nazwa="jacob-i-wilhelm-grimm-chata-w-lesie.mp3">
+    <autor>Jacob i Wilhelm Grimm</autor>
+    <tytul>Chata w lesie</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>9:47</czas>
+    <gatunek>baśń</gatunek>
+    <nazwa>jacob-i-wilhelm-grimm-chata-w-lesie.mp3</nazwa>    
+</abook>
+ <abook id='26' nazwa="jacob-i-wilhelm-grimm-kopciuszek.mp3">
+    <autor>Jacob i Wilhelm Grimm</autor>
+    <tytul>Kopciuszek</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>romantyzm</epoka>
+    <czas>10:49</czas>
+    <gatunek>baśń</gatunek>
+    <nazwa>jacob-i-wilhelm-grimm-kopciuszek.mp3</nazwa>    
+</abook>
+ <abook id='27' nazwa="jan-andrzej-morsztyn-do-motyla.mp3">
+    <autor>Jan Andrzej Morsztyn</autor>
+    <tytul>Do motyla</tytul>
+    <lektor>Piotr Głowacki</lektor>
+    <epoka>barok</epoka>
+    <czas>0:52</czas>
+    <gatunek>sonet</gatunek>
+    <nazwa>jan-andrzej-morsztyn-do-motyla.mp3</nazwa>    
+</abook>
+ <abook id='28' nazwa="jan-andrzej-morsztyn-do-trupa.mp3">
+    <autor>Jan Andrzej Morsztyn</autor>
+    <tytul>Do trupa</tytul>
+    <lektor>Piotr Głowacki</lektor>
+    <epoka>barok</epoka>
+    <czas>1:05</czas>
+    <gatunek>sonet</gatunek>
+    <nazwa>jan-andrzej-morsztyn-do-trupa.mp3</nazwa>    
+</abook>
+ <abook id='29' nazwa="jan-kasprowicz-dies-irae_1.mp3" >
+    <autor>Jan Kasprowicz</autor>
+    <tytul>Dies Irae</tytul>
+    <lektor>Michał Michalski</lektor>
+    <epoka>modernizm</epoka>
+    <czas>23:08</czas>
+    <gatunek>hymn</gatunek>
+    <nazwa>jan-kasprowicz-dies-irae_1.mp3</nazwa>    
+</abook>
+ <abook id='30' nazwa="jan-kasprowicz-salome_1.mp3">
+    <autor>Jan Kasprowicz</autor>
+    <tytul>Salome</tytul>
+    <lektor>Karolina Porcari</lektor>
+    <epoka>modernizm</epoka>
+    <czas>24:02</czas>
+    <gatunek>hymn</gatunek>
+    <nazwa>jan-kasprowicz-salome_1.mp3</nazwa>    
+</abook>
+ <abook id='31' nazwa="jan-kasprowicz-swiety-boze-swiety-mocny_1.mp3">
+    <autor>Jan Kasprowicz</autor>
+    <tytul>Święty Boże Święty Mocny</tytul>
+    <lektor>Michał Michalski</lektor>
+    <epoka>modernizm</epoka>
+    <czas>22:21</czas>
+    <gatunek>hymn</gatunek>
+    <nazwa>jan-kasprowicz-swiety-boze-swiety-mocny_1.mp3</nazwa>    
+</abook>
+ <abook id='32' nazwa="jan-kochanowski-fragmenta-albo-pozostale-pisma-piesn-czego-chcesz-od-nas-panie-za-t_1.mp3">
+    <autor>Jan Kochanowski</autor>
+    <tytul>Czego Chcesz Od Nas, Panie</tytul>
+    <lektor>Krzysztof Skonieczny</lektor>
+    <epoka>renesans</epoka>
+    <czas>2:25</czas>
+    <gatunek>pieśń</gatunek>
+    <cykl>Fragmenta albo pozostale pisma</cykl>
+    <nazwa>jan-kochanowski-fragmenta-albo-pozostale-pisma-piesn-czego-chcesz-od-nas-panie-za-t_1.mp3</nazwa>    
+</abook>
+ <abook id='33' nazwa="jan-kochanowski-fraszki-ksiegi-pierwsze-o-doktorze-hiszpanie.mp3">
+    <autor>Jan Kochanowski</autor>
+    <tytul>O Doktorze Hiszpanie</tytul>
+    <lektor>Michał Michalski</lektor>
+    <epoka>renesans</epoka>
+    <czas>0:59</czas>
+    <gatunek>fraszka</gatunek>
+    <cykl>fraszki</cykl>
+    <nazwa>jan-kochanowski-fraszki-ksiegi-pierwsze-o-doktorze-hiszpanie.mp3</nazwa>    
+</abook>
+ <abook id='34' nazwa="jan-kochanowski-fraszki-ksiegi-pierwsze-z-anakreonta-ciezko-kto-nie-miluje-ciezko-k.mp3">
+    <autor>Jan Kochanowski</autor>
+    <tytul>Z Anakreonta</tytul>
+    <lektor>Michał Michalski</lektor>
+    <epoka>renesans</epoka>
+    <czas>0:44</czas>
+    <gatunek>fraszka</gatunek>
+    <cykl>fraszki</cykl>
+    <nazwa>jan-kochanowski-fraszki-ksiegi-pierwsze-z-anakreonta-ciezko-kto-nie-miluje-ciezko-k.mp3</nazwa>    
+</abook>
+ <abook id='35' nazwa="jan-kochanowski-fraszki-ksiegi-trzecie-na-dom-w-czarnolesie.mp3">
+    <autor>Jan Kochanowski</autor>
+    <tytul>Na dom w Czarnolesie</tytul>
+    <lektor>Jan Peszek</lektor>
+    <epoka>renesans</epoka>
+    <czas>0:44</czas>
+    <gatunek>fraszka</gatunek>
+    <cykl>fraszki</cykl>
+    <nazwa>jan-kochanowski-fraszki-ksiegi-trzecie-na-dom-w-czarnolesie.mp3</nazwa>    
+</abook>
+ <abook id='36' nazwa="jan-kochanowski-treny-epitafium-hannie-kochanowskiej.mp3">
+    <autor>Jan Kochanowski</autor>
+    <tytul>Epitafium Hannie Kochanowskiej</tytul>
+    <lektor>Paweł Paprocki</lektor>
+    <epoka>renesans</epoka>
+    <czas>0:27</czas>
+    <gatunek>tren</gatunek>
+    <cykl>treny</cykl>
+    <nazwa>jan-kochanowski-treny-epitafium-hannie-kochanowskiej.mp3</nazwa>    
+</abook>
+  <abook id='37' nazwa="jan-kochanowski-treny-tren-i.mp3">
+    <autor>Jan Kochanowski</autor>
+    <tytul>Tren I</tytul>
+    <lektor>Paweł Paprocki</lektor>
+    <epoka>renesans</epoka>
+    <czas>1:27</czas>
+    <gatunek>tren</gatunek>
+    <cykl>treny</cykl>
+    <nazwa>jan-kochanowski-treny-tren-i.mp3</nazwa>    
+</abook>
+ <abook id='38' nazwa="jan-kochanowski-treny-tren-viii.mp3">
+    <autor>Jan Kochanowski</autor>
+    <tytul>Tren VIII</tytul>
+    <lektor>Jakub Wieczorek</lektor>
+    <epoka>renesans</epoka>
+    <czas>1:30</czas>
+    <gatunek>tren</gatunek>
+    <cykl>treny</cykl>
+    <nazwa>jan-kochanowski-treny-tren-viii.mp3</nazwa>    
+</abook>
+ <abook id='39' nazwa="maria-konopnicka-dym.mp3">
+    <autor>Maria Konopnicka</autor>
+    <tytul>Dym</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>21:18</czas>
+    <gatunek>nowela</gatunek>
+    <nazwa>maria-konopnicka-dym.mp3</nazwa>    
+</abook>
+ <abook id='40' nazwa="maria-konopnicka-mendel-gdanski_2.mp3">
+    <autor>Maria Konopnicka</autor>
+    <tytul>Mendel Gdański</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>58:30</czas>
+    <gatunek>nowela</gatunek>
+    <nazwa>maria-konopnicka-mendel-gdanski_2.mp3</nazwa>    
+</abook>
+ <abook id='41' nazwa="maria-konopnicka-nasza-szkapa_1.mp3">
+    <autor>Maria Konopnicka</autor>
+    <tytul>Nasza szkapa</tytul>
+    <lektor>Kamila Salwerowicz</lektor>
+    <epoka>pozytywizm</epoka>
+    <czas>83:04</czas>
+    <gatunek>nowela</gatunek>
+    <nazwa>maria-konopnicka-nasza-szkapa_1.mp3</nazwa>    
+</abook>
+ <abook id='42' nazwa="milosz-biedrzycki-akslop.mp3">
+    <autor>Miłosz Biedrzycki</autor>
+    <tytul>Akslop</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>współczesność</epoka>
+    <czas>0:45</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>milosz-biedrzycki-akslop.mp3</nazwa>    
+</abook>
+ <abook id='43' nazwa="milosz-biedrzycki-dobry-wieczor-nazywam-sie-mickiewicz.mp3">
+    <autor>Miłosz Biedrzycki</autor>
+    <tytul>Dobry wieczór nazywam się Mickiewicz</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>współczesność</epoka>
+    <czas>1:57</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>milosz-biedrzycki-dobry-wieczor-nazywam-sie-mickiewicz.mp3</nazwa>    
+</abook>
+ <abook id='44' nazwa="milosz-biedrzycki-hold-dwa-sonety.mp3">
+    <autor>Miłosz Biedrzycki</autor>
+    <tytul>Hołd dwa sonety</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>współczesność</epoka>
+    <czas>1:35</czas>
+    <gatunek>sonet</gatunek>
+    <nazwa>milosz-biedrzycki-hold-dwa-sonety.mp3</nazwa>    
+</abook>
+ <abook id='45' nazwa="stefan-grabinski-projekcje.mp3">
+    <autor>Stefan Grabiński</autor>
+    <tytul>Projekcje</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>dwudziestolecie międzywojenne</epoka>
+    <czas>36:55</czas>
+    <gatunek>nowela</gatunek>
+    <nazwa>stefan-grabinski-projekcje.mp3</nazwa>    
+</abook>
+ <abook id='46' nazwa="tadeusz-boy-zelenski-slowka-zbior-piesn-o-stu-koronach.mp3">
+    <autor>Tadeusz Boy Żeleński</autor>
+    <tytul>O stu koronach</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>dwudziestolecie międzywojenne</epoka>
+    <czas>3:24</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>tadeusz-boy-zelenski-slowka-zbior-piesn-o-stu-koronach.mp3</nazwa>    
+</abook>
+ <abook id='47' nazwa="tadeusz-boy-zelenski-slowka-zbior-pochwala-ojcostwa.mp3">
+    <autor>Tadeusz Boy Żeleński</autor>
+    <tytul>Pochwała ojcostwa</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>dwudziestolecie międzywojenne</epoka>
+    <czas>3:14</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>tadeusz-boy-zelenski-slowka-zbior-pochwala-ojcostwa.mp3</nazwa>    
+</abook>
+ <abook id='48' nazwa="tadeusz-boy-zelenski-slowka-zbior-proroctwo-krolowej-jadwigi.mp3">
+    <autor>Tadeusz Boy Żeleński</autor>
+    <tytul>Proroctwo Królowej Jadwigi</tytul>
+    <lektor>Wiktor Korzeniewski</lektor>
+    <epoka>dwudziestolecie międzywojenne</epoka>
+    <czas>2:59</czas>
+    <gatunek>wiersz</gatunek>
+    <nazwa>tadeusz-boy-zelenski-slowka-zbior-proroctwo-krolowej-jadwigi.mp3</nazwa>    
+</abook>
+    
+</root>

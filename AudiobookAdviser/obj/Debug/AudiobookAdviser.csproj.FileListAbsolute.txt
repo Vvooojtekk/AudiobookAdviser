@@ -1,0 +1,70 @@
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe.config
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csprojResolveAssemblyReference.cache
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\Interop.WMPLib.dll
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AxInterop.WMPLib.dll
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.ResolveComReference.cache
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Form1.resources
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Properties.Resources.resources
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.GenerateResource.Cache
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.pdb
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\bin\Debug\Interop.WMPLib.dll
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\bin\Debug\AxInterop.WMPLib.dll
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.exe
+c:\users\boss\documents\visual studio 2012\Projects\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.pdb
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe.config
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\Interop.WMPLib.dll
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AxInterop.WMPLib.dll
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.ResolveComReference.cache
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.exe
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.pdb
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.pdb
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\Interop.WMPLib.dll
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AxInterop.WMPLib.dll
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csprojResolveAssemblyReference.cache
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Form1.resources
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Properties.Resources.resources
+D:\wg\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.GenerateResource.Cache
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe.config
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\Interop.WMPLib.dll
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AxInterop.WMPLib.dll
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.ResolveComReference.cache
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.exe
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.pdb
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.pdb
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\Interop.WMPLib.dll
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AxInterop.WMPLib.dll
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csprojResolveAssemblyReference.cache
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Form1.resources
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Properties.Resources.resources
+D:\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.GenerateResource.Cache
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe.config
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\Interop.WMPLib.dll
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AxInterop.WMPLib.dll
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.ResolveComReference.cache
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.exe
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.pdb
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csprojResolveAssemblyReference.cache
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Form1.resources
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Properties.Resources.resources
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.GenerateResource.Cache
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.pdb
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\Interop.WMPLib.dll
+D:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AxInterop.WMPLib.dll
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe.config
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\Interop.WMPLib.dll
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AxInterop.WMPLib.dll
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.ResolveComReference.cache
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.exe
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.pdb
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.exe
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AudiobookAdviser.pdb
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\Interop.WMPLib.dll
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\bin\Debug\AxInterop.WMPLib.dll
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csprojResolveAssemblyReference.cache
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Form1.resources
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.Properties.Resources.resources
+E:\licencjat\AudiobookAdviser2\AudiobookAdviser\AudiobookAdviser\AudiobookAdviser\obj\Debug\AudiobookAdviser.csproj.GenerateResource.Cache
